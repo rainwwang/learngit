@@ -5,4 +5,4 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 }
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
